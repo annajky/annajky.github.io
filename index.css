@@ -1,0 +1,129 @@
+@font-face {
+	font-family: 'Roboto';
+	src: url('fonts/roboto-v30-latin-700.woff2') format('woff2');
+	font-weight: 700;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: url('fonts/roboto-v30-latin-100.woff2') format('woff2');
+	font-weight: 100;
+	font-style: normal;
+}
+
+
+html {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1325px;
+	background-color: white;
+}
+
+.header {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 700;
+	font-size: 150px;
+}
+
+.first {
+    background-color: black;
+	color: white;
+	text-align: left;
+	padding-left: 30px;
+	padding-right: 30px;
+
+}
+
+.sub-head {
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+	font-size: 18px;
+	padding-right: 150px;
+	padding-bottom: 30px;
+
+}
+
+.second {
+	line-height: 40px;
+	font-size: 18px;
+	background-color: white;
+	color: black;
+	padding-left: 30px;
+
+}
+
+.strong {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	text-align: left;
+}
+
+.band {
+	list-style: none;
+	padding-left: 0;
+	padding-bottom: 30px;
+}
+
+.third {
+	font-size: 18px;
+	background-color: black;
+	color: white;
+	padding-top: 10px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+
+.fourth{
+	line-height: 30px;
+	font-size: 12px;
+	background-color: white;
+	color: black;
+	padding-left: 30px;
+}
+
+.em {
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+a {
+	color: black;
+}
+
+.next-page {
+	color: white;
+}
+
+.disk {
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+}
+
+.grey {
+	font-family: 'Roboto', sans-serif;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 800px;
+	background-color: grey;
+	color: white;
+	text-align: left;
+	font-size: 18px;
+	padding-top: 10px;
+	padding-left: 300px;
+	padding-bottom: 30px;
+}
+
+.diskhead {
+	font-family: 'Roboto', sans-serif;
+	font-size: 50px;
+	font-weight: 700;
+	text-align: center;
+	color: grey;
+}
